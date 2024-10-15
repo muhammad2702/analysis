@@ -1,0 +1,11 @@
+ccxt
+numpy
+matplotlib
+pandas as pd
+time
+asyncio
+websockets
+json
+datetime
+os 
+requests
